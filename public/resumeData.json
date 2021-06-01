@@ -134,13 +134,13 @@
         "url":"https://jenkins.jvdevops.com/"
       },
       {
-        "title":"CollegeBuddy",
+        "title":"Prometheus",
         "category":"Plateform will guide you to handling stress during college life.",
         "image":"collegebuddy.jpg",
         "url":"https://prometheus.jvdevops.com/"
       },
       {
-        "title":"College CafeQueria",
+        "title":"Grafana",
         "category":"Plateform to eliminate all the doubts regarding college life and academia.",
         "image":"cafequeria.jpg",
         "url":"https://grafana.jvdevops.com/"
